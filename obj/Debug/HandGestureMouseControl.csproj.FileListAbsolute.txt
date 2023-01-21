@@ -1,0 +1,10 @@
+C:\Users\sciku\source\repos\HandGestureMouseControl\bin\Debug\HandGestureMouseControl.exe.config
+C:\Users\sciku\source\repos\HandGestureMouseControl\bin\Debug\HandGestureMouseControl.exe
+C:\Users\sciku\source\repos\HandGestureMouseControl\bin\Debug\HandGestureMouseControl.pdb
+C:\Users\sciku\source\repos\HandGestureMouseControl\obj\Debug\HandGestureMouseControl.csproj.AssemblyReference.cache
+C:\Users\sciku\source\repos\HandGestureMouseControl\obj\Debug\HandGestureMouseControl.Form1.resources
+C:\Users\sciku\source\repos\HandGestureMouseControl\obj\Debug\HandGestureMouseControl.Properties.Resources.resources
+C:\Users\sciku\source\repos\HandGestureMouseControl\obj\Debug\HandGestureMouseControl.csproj.GenerateResource.cache
+C:\Users\sciku\source\repos\HandGestureMouseControl\obj\Debug\HandGestureMouseControl.csproj.CoreCompileInputs.cache
+C:\Users\sciku\source\repos\HandGestureMouseControl\obj\Debug\HandGestureMouseControl.exe
+C:\Users\sciku\source\repos\HandGestureMouseControl\obj\Debug\HandGestureMouseControl.pdb
