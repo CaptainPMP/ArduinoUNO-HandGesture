@@ -4,6 +4,7 @@
 - ArduinoUNO don't support `Mouse.h`
 - But ArduinoUNO can still use `MPU6050.h`
 - I send `MPU6050.h` to C# to control cursor (I use C# because I used to it before and it faster than python)
+![plan image](https://github.com/CaptainPMP/ArduinoUNO-HandGesture/blob/main/images/plan.jpg)
 
 ## What it suppose to be?
 - [x] ArduinoUNO can send data to C# Program
